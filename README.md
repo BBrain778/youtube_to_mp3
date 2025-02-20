@@ -1,6 +1,11 @@
-# youtube_to_mp3
+# YouTube to MP3 Converter
 
 
-download 'yt-dlp'
 
+## 🚀 安裝
+
+### 1️⃣ 安裝 `yt-dlp`
+請確保你的 Python 環境已安裝 `yt-dlp`：
+```sh
 pip install yt-dlp
+```
